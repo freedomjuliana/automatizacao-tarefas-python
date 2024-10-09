@@ -24,3 +24,6 @@ Pode ser aplicado em projetos pessoais, empresas e mais. Para teste, foi utiliza
 * [Pyautogui](https://pyautogui.readthedocs.io/en/latest/) - Biblioteca utilizada para automatização de processos repetitivos.
 * [Pandas](https://pandas.pydata.org/docs/) - Biblioteca utilizada para a importação e visualização da base de dados.
 
+---
+
+Feito com 💜 by Juliana Morais! :)
